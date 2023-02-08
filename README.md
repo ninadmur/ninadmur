@@ -1,5 +1,5 @@
 # 💫 About Me:
-Software Developer with 1.5 years of experience in<br>Software development. Currently working as a<br>Fullstack developer.I have worked on technologies<br>such as ReactJS, NextJS, NodeJS, Django, Flask<br>SQL and MongoDB. Seeking to grow more as a<br>developer and keep learning new technologies.<br><br>Currently Learning and Exploring Backend and Cloud based services and Libraries.<br>
+Software Developer with 2+ years of experience in<br>Software development. Currently working as a<br>Fullstack developer.I have worked on technologies<br>such as ReactJS, NextJS, NodeJS, Django, Flask<br>SQL and MongoDB. Seeking to grow more as a<br>developer and keep learning new technologies.<br><br>Currently Learning and Exploring Backend and Cloud based services and Libraries.<br>
 
 
 # 💻 Tech Stack:
